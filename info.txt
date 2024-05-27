@@ -1,0 +1,2 @@
+Para iniciar o server -             sudo systemctl status mosquitto
+Para verificar o status do server - sudo systemctl status mosquitto
